@@ -25,4 +25,4 @@ Data Cleaning and Manipulation.
 Exploratory Data Analysis (EDA) for understanding the trends and insights.
 Created multiple visuals to get clear understanding.
 
-!(coffee_sales_dashboard.png)
+![model](coffee_sales_dashboard.png)
